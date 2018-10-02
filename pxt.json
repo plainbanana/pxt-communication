@@ -1,5 +1,5 @@
 {
-    "name": "pxt-communication",
+    "name": "pxt-irsender",
     "version": "0.0.1",
     "description": "",
     "dependencies": {
@@ -13,5 +13,6 @@
     "testFiles": [
         "test.ts"
     ],
-    "public": false
+    "public": false,
+    "installedVersion": "workspace:c0018784-cce6-46cd-a236-a7658ce85ef6"
 }
