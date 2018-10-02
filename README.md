@@ -1,4 +1,4 @@
-# pxt-communication
+# pxt-irsender
 
 
 
